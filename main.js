@@ -1,38 +1,38 @@
 const electrodomesticos = [{
         id: 1,
         nombre: "Aire acondicionado Hitachi",
-        img: '../img/airehitachi.jpg',
+        img: './img/airehitachi.jpg',
         precio: 120000,
     },
     {
         id: 2,
         nombre: "TV 4K UHD Samsung 65 ",
-        img: '../img/tv65.jpg',
+        img: './img/tv65.jpg',
         precio: 228000
 
     },
     {
         id: 3,
         nombre: "Lavarropas Drean",
-        img: '../img/lavarropa6kg.jpg',
+        img: './img/lavarropa6kg.jpg',
         precio: 80000
     },
     {
         id: 4,
         nombre: "Motorola Moto G22",
-        img: '../img/motog22.jpg',
+        img: './img/motog22.jpg',
         precio: 30000
     },
     {
         id: 5,
         nombre: "Notebook Lenovo",
-        img: '../img/notelenovo.jpg',
+        img: './img/notelenovo.jpg',
         precio: 120000
     },
     {
         id: 6,
         nombre: "Cocina Whirlpool",
-        img: '../img/cocinawhilpoll.png',
+        img: './img/cocinawhilpoll.png',
         precio: 90000
     },
 ]
